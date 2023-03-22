@@ -108,7 +108,7 @@ h3 {
     backdrop-filter:blur(10px);
 }
 
-p {
+.search_box_text {
     font-family:Arial, Helvetica, sans-serif;
     color: white;
     font-size: 20px;
@@ -123,3 +123,65 @@ p {
 }
 
 /* end of section 1 */
+
+/* start of section 2 */
+.section_2 {
+    width: 70%;
+    margin-top: 245px;
+    margin: 245px auto;
+}
+
+h4 {
+    font-family: 'Work Sans';
+    font-size: 80px;
+    
+}
+
+.cards {
+    margin-top: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 55px;
+}
+
+.card {
+    padding: 20px 30px;
+    width: 390px;
+    height: 388px;
+    border: 2px solid #DCB47A;
+    display: flex;
+    flex-direction: column;
+    align-items:first baseline;
+    gap: 17px;
+    
+}
+
+.card_img {
+
+    width: 100%;
+    height: 225px;
+    object-fit: cover;
+}
+
+.card_txt {
+    font-size: 16px;
+}
+
+.title {
+    font-family: 'Inter';
+    margin-top: 54px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.price {
+    font-family: 'Inter';
+}
+
+.shop {
+    width: 19px;
+    height: 19px;
+    
+}
