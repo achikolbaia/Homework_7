@@ -71,8 +71,8 @@ h2 {
     line-height: 150%;
     position: absolute;
     top: 20%;
-    left: 18%;
-    transform: translate(-20% -18%);
+    left: 20%;
+    transform: translate(-20% -20%);
     text-align: center;
 
 }
@@ -85,8 +85,8 @@ h3 {
     line-height: 150%;
     position: absolute;
     top: 53%;
-    left: 32%;
-    transform: translate(-53% -33%);
+    left: 35%;
+    transform: translate(-53% -35%);
     text-align: center;
 }
 
@@ -98,8 +98,8 @@ h3 {
     border-radius: 50px;
     position: absolute;
     top: 61%;
-    left: 35%;
-    transform: translate(-61% -35%);
+    left: 38%;
+    transform: translate(-61% -38%);
     text-align: center;
     display: flex;
     justify-content: space-between;
